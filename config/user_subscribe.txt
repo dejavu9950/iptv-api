@@ -2,8 +2,6 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv6.m3u
-https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt
 https://iptv.nasaio.top/carldj/txt
 https://d.kstore.dev/download/12441/ds9.txt
 http://rihou.cc:555/gggg.nzk
@@ -24,11 +22,14 @@ https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 http://210.245.166.84:1299/live/live.txt
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js
-https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt
-https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
-http://taoiptv.com/lives/44023.txt?token=e436e546682bffd5
-http://taoiptv.com/lives/44025.txt?token=e436e546682bffd5
 https://d.kstore.dev/download/11344/yunduan.txt
+
+# https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv6.m3u
+# https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt
+# https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt
+# https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
+# http://taoiptv.com/lives/44023.txt?token=e436e546682bffd5
+# http://taoiptv.com/lives/44025.txt?token=e436e546682bffd5
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
