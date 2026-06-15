@@ -53,18 +53,39 @@ CGTN英语,CGTN英语新闻
 CGTN俄语,CGTN俄罗斯语
 
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
+广东体育,广东体育高清,广东体育HD
+广东新闻,广东新闻高清,广东新闻HD
+广东民生,广东民生高清,广东民生HD
 
-翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台
+
+翡翠台,翡翠台4K,翡翠台4k,TVb翡翠台,tvb翡翠台,TVB翡翠台
 明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
-北京卫视,北京卫视4K,北京卫视4K超高清
-凤凰中文,凤凰卫视中文台
-凤凰香港,凤凰卫视香港台
+Astro IQIYI,ASTRO IQIYI,astro IQIYI,AstroIQIYI,ASTROIQIYI,astroIQIYI,ASTRO爱奇艺,Astro爱奇艺,astro爱奇艺,ASTRO 爱奇艺,Astro 爱奇艺,astro 爱奇艺,astro 爱奇艺,IQYI,愛奇藝,爱奇艺
+Astro AOD,ASTRO AOD,astro AOD,AstroAOD,ASTROAOD,astroAOD
+Astro AEC,ASTRO AEC,astro AEC,AstroAEC,ASTROAEC,astroAEC
+Astro 欢喜台,Astro 歡喜台,astro 欢喜台,astro 歡喜台,Astro欢喜台,Astro歡喜台,astro欢喜台,astro歡喜台
+TVB PLUS,TVB Plus,TVBPLUS,TVBPlus
+TVBS NEWS,TVBS News,TVBSNEWS,TVBSNews,TVBS新闻,TVBS新聞,,TVBS 新闻,TVBS 新聞,無線新聞台,无线新闻台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台
+TVB1,TVB 1,翡翠一台(TVB1),翡翠第一台
+
+龙华电影,龍華電影,LTV龙华电影,LTV龍華電影
+龙华戏剧,龍華戲劇,LTV龙华电影,LTV龍華電影
+龙华日韩,龍華日韓,LTV龙华电影,LTV龍華電影
+龙华偶像,龍華偶像,LTV龙华电影,LTV龍華電影
+龙华经典,龍華經典,LTV龙华电影,LTV龍華電影
+龙华洋片,龍華洋片,LTV龙华洋片,LTV龍華洋片
+
+CH5,CHANNEL 5,ch5,channel 5,ch 5,Channel 5
+CH8,CHANNEL 8,ch8,channel 8,ch 8,Channel 8
+CHU,CHANNEL U,chU,channel U,ch U,CHu,CHANNEL u,chu,channel u,ch u,Channel U,Channel u
+
+
+
 福建文体,福建体育
 福建经济,福建经视
 FZTV1,FZTV-1,福州综合,福州1-新闻
 FZTV3,FZTV-3,福州生活,福州3-生活
 
-无线新闻台,無綫新聞台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台
 
 港台电视 31,港台電視 31,RTHK31,RTHK 31,RTHK-31
 港台电视 32,港台電視 32,RTHK32,RTHK 32,RTHK-32
@@ -72,6 +93,17 @@ FZTV3,FZTV-3,福州生活,福州3-生活
 中國環球電視網紀錄頻道,中國環球電視網紀錄頻道 (CGTN紀錄頻道),CGTN紀錄頻道,RTHK34,RTHK 34,RTHK-34
 CGTN 英語頻道,RTHK35,RTHK 35,RTHK-35
 港台电视 36,港台電視 36,RTHK36,RTHK 36,RTHK-36
+TVBS武侠,TVBS亚洲武侠,TVBS武俠
+TVBS欢乐台,TVBS歡樂台
+TVB翡翠剧集台,TVB翡翠剧集台(TVBDRAMA),TVB DRMA,TVB翡翠劇集台
+千禧经典,千禧經典,TVB千禧经典,TVB千禧經典,千禧經典台,千禧经典台
+欢乐新闻,歡樂新聞,TVB欢乐新闻,TVB歡樂新聞
+娱乐新闻,娛樂新聞,TVB娱乐新闻,TVB娛樂新聞
+
+澳视澳门,澳視澳門
+澳视卫星,澳視衛星,澳視Macau,澳视Macau
+澳门体育,澳門體育
+澳门综艺,澳門綜藝
 
 *HOY 國際財經台,HOY 國際財經台,*HOY 国际财经台,HOY 国际财经台,HOY国际财经台
 *HOY TV,HOY TV
@@ -131,5 +163,50 @@ NewTV武搏世界,NEWTV武搏世界,武搏世界,武博世界,武术世界
 NewTV怡伴健康,NEWTV怡伴健康,怡伴健康
 NewTV中国功夫,NEWTV中国功夫,中国功夫
 
+赛事睛彩竞技,睛彩竞技
+赛事睛彩篮球,睛彩篮球
+赛事睛彩青少,睛彩青少
+赛事精彩广场,睛彩广场
+
+
+
 四川卫视,四川卫视4K,四川卫视4K25,四川卫视4K50
-湖南卫视,湖南卫视4K,湖南卫视4K25,湖南卫视4K50
+湖南卫视,湖南卫视4K,湖南卫视4K25,湖南卫视4K50,湖南卫视HD,湖南卫视高清
+湖北卫视,湖北卫视4K,湖北卫视HD,湖北卫视高清
+北京卫视,北京卫视4K,北京卫视4K超高清,北京卫视HD,北京卫视高清
+凤凰中文,凤凰卫视中文台,鳳凰中文,鳳凰衛視中文台
+凤凰香港,凤凰卫视香港台,鳳凰香港,鳳凰衛視香港台
+凤凰资讯,凤凰卫视资讯台,鳳凰資訊,鳳凰衛視咨詢台,鳳凰資訊頻道,凤凰资讯频道
+广东卫视,广东卫视4K,广东卫视HD,广东卫视高清
+大湾区卫视,大湾区卫视(国际版),大湾区卫视高清,广东大湾区卫视
+浙江卫视,浙江卫视HD,浙江卫视4K,浙江卫视高清
+黑龙江卫视,黑龙江卫视HD,黑龙江卫视超清,黑龙江卫视高清
+安徽卫视,安徽卫视HD,安徽卫视高清
+重庆卫视,重庆卫视HD,重庆卫视高清
+东方卫视,东方卫视HD,东方卫视高清,东方卫视4K,东方卫视超清
+东南卫视,东南卫视HD,东南卫视高清
+甘肃卫视,甘肃卫视HD,甘肃卫视高清
+广西卫视,广西卫视HD,广西卫视高清
+贵州卫视,贵州卫视HD,贵州卫视高清
+海南卫视,海南卫视HD,海南卫视高清
+河北卫视,河北卫视HD,河北卫视高清
+河南卫视,河南卫视HD,河南卫视高清
+吉林卫视,吉林卫视HD,吉林卫视高清
+江苏卫视,江苏卫视HD,江苏卫视高清,江苏卫视超清
+江西卫视,江西卫视HD,江西卫视高清,江西卫视超清
+辽宁卫视,辽宁卫视HD,辽宁卫视高清
+内蒙古卫视,内蒙古卫视HD,内蒙古卫视高清
+宁夏卫视,宁夏卫视HD,宁夏卫视高清
+青海卫视,青海卫视HD,青海卫视高清
+山西卫视,山西卫视HD,山西卫视高清
+陕西卫视,陕西卫视HD,陕西卫视高清
+四川卫视,四川卫视HD,四川卫视高清
+深圳卫视,深圳卫视HD,深圳卫视高清,深圳卫视4K,深圳卫视超清
+三沙卫视,三沙卫视HD,三沙卫视高清
+天津卫视,天津卫视HD,天津卫视高清,天津卫视超清
+西藏卫视,西藏卫视HD,西藏卫视高清
+新疆卫视,新疆卫视HD,新疆卫视高清
+云南卫视,云南卫视HD,云南卫视高清
+
+汕头综合,汕头综合高清,汕头综合HD
+汕头生活,汕头生活高清,汕头生活HD,汕头经济,汕头经济高清,汕头经济HD
