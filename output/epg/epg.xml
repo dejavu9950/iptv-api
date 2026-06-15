@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260615095537 +0800">
+<tv date="20260615095842 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -16121,9 +16121,162 @@
 	<programme channel="广州综合" start="20260615234000 +0800" stop="20260615235900 +0800">
 		<title lang="zh">百味广州</title>
 	</programme>
+	<channel id="广州竞赛">
+		<display-name lang="zh">广州竞赛</display-name>
+	</channel>
+	<programme channel="广州竞赛" start="20260615000000 +0800" stop="20260615091500 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615091500 +0800" stop="20260615094500 +0800">
+		<title lang="zh">平安跑世界</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615094500 +0800" stop="20260615101500 +0800">
+		<title lang="zh">缤纷生活街专题</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615101500 +0800" stop="20260615111500 +0800">
+		<title lang="zh">体育赛事</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615111500 +0800" stop="20260615114500 +0800">
+		<title lang="zh">世界体育</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615114500 +0800" stop="20260615120000 +0800">
+		<title lang="zh">竞赛快讯</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615120000 +0800" stop="20260615130000 +0800">
+		<title lang="zh">体育赛事</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615130000 +0800" stop="20260615131500 +0800">
+		<title lang="zh">竞赛快讯</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615131500 +0800" stop="20260615140000 +0800">
+		<title lang="zh">体育赛事</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615140000 +0800" stop="20260615141500 +0800">
+		<title lang="zh">竞赛快讯</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615141500 +0800" stop="20260615144500 +0800">
+		<title lang="zh">缤纷生活街专题</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615144500 +0800" stop="20260615151500 +0800">
+		<title lang="zh">平安跑世界</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615151500 +0800" stop="20260615170000 +0800">
+		<title lang="zh">体育赛事</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615170000 +0800" stop="20260615173000 +0800">
+		<title lang="zh">缤纷生活街专题</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615173000 +0800" stop="20260615183000 +0800">
+		<title lang="zh">体育赛事</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615183000 +0800" stop="20260615190000 +0800">
+		<title lang="zh">今日睇弹</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615190000 +0800" stop="20260615193000 +0800">
+		<title lang="zh">体坛点击</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615193000 +0800" stop="20260615203000 +0800">
+		<title lang="zh">德甲精华</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615203000 +0800" stop="20260615220000 +0800">
+		<title lang="zh">体育赛事</title>
+	</programme>
+	<programme channel="广州竞赛" start="20260615220000 +0800" stop="20260615235900 +0800">
+		<title lang="zh">体育赛事</title>
+	</programme>
+	<channel id="汕头综合">
+		<display-name lang="zh">汕头综合</display-name>
+	</channel>
+	<programme channel="汕头综合" start="20260615000000 +0800" stop="20260615001000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615001000 +0800" stop="20260615014500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615014500 +0800" stop="20260615070200 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615070200 +0800" stop="20260615075200 +0800">
+		<title lang="zh">重播昨天今日视线</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615075200 +0800" stop="20260615081500 +0800">
+		<title lang="zh">重播双响炮</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615081500 +0800" stop="20260615083300 +0800">
+		<title lang="zh">重播昨天汕头新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615083300 +0800" stop="20260615095800 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615095800 +0800" stop="20260615120000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615120000 +0800" stop="20260615132000 +0800">
+		<title lang="zh">重播昨天汕头新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615120000 +0800" stop="20260615132000 +0800">
+		<title lang="zh">重播昨天汕头新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615132000 +0800" stop="20260615134500 +0800">
+		<title lang="zh">双响炮</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615132000 +0800" stop="20260615134500 +0800">
+		<title lang="zh">双响炮</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615134500 +0800" stop="20260615142500 +0800">
+		<title lang="zh">厝边头尾</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615134500 +0800" stop="20260615142500 +0800">
+		<title lang="zh">厝边头尾</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615142500 +0800" stop="20260615190000 +0800">
+		<title lang="zh">潮剧</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615142500 +0800" stop="20260615190000 +0800">
+		<title lang="zh">潮剧</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615190000 +0800" stop="20260615193300 +0800">
+		<title lang="zh">转播中央电视台新闻联播</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615190000 +0800" stop="20260615193300 +0800">
+		<title lang="zh">转播中央电视台新闻联播</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615193300 +0800" stop="20260615200300 +0800">
+		<title lang="zh">汕头新闻(普语)</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615193300 +0800" stop="20260615200300 +0800">
+		<title lang="zh">汕头新闻(普语)</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615200300 +0800" stop="20260615220000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615200300 +0800" stop="20260615220000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615220000 +0800" stop="20260615230000 +0800">
+		<title lang="zh">今日视线(重播)</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615220000 +0800" stop="20260615230000 +0800">
+		<title lang="zh">今日视线(重播)</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615230000 +0800" stop="20260615232000 +0800">
+		<title lang="zh">双响炮</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615230000 +0800" stop="20260615232000 +0800">
+		<title lang="zh">双响炮</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615232000 +0800" stop="20260615120000 +0800">
+		<title lang="zh">潮汕新闻联播</title>
+	</programme>
+	<programme channel="汕头综合" start="20260615232000 +0800" stop="20260615235900 +0800">
+		<title lang="zh">潮汕新闻联播</title>
+	</programme>
 	<channel id="澳视卫星">
 		<display-name lang="zh">澳视卫星</display-name>
 	</channel>
+	<programme channel="澳视卫星" start="20260615000000 +0800" stop="20260615000200 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
 	<programme channel="澳视卫星" start="20260615000200 +0800" stop="20260615003000 +0800">
 		<title lang="zh">蓝海同行</title>
 	</programme>
@@ -16161,7 +16314,7 @@
 		<title lang="zh">澳门经典车小百科</title>
 	</programme>
 	<programme channel="澳视卫星" start="20260615055000 +0800" stop="20260615060000 +0800">
-		<title lang="zh">家家有煮</title>
+		<title lang="zh">家家有𩠌煮</title>
 	</programme>
 	<programme channel="澳视卫星" start="20260615060000 +0800" stop="20260615063000 +0800">
 		<title lang="zh">蓝海同行</title>
@@ -16254,7 +16407,7 @@
 		<title lang="zh">澳门人澳门事</title>
 	</programme>
 	<programme channel="澳视卫星" start="20260615212200 +0800" stop="20260615213000 +0800">
-		<title lang="zh">家家有煮</title>
+		<title lang="zh">家家有𩠌煮</title>
 	</programme>
 	<programme channel="澳视卫星" start="20260615213000 +0800" stop="20260615220000 +0800">
 		<title lang="zh">澳门经典车小百科</title>
@@ -16268,122 +16421,8 @@
 	<programme channel="澳视卫星" start="20260615230000 +0800" stop="20260615234000 +0800">
 		<title lang="zh">葡语新闻</title>
 	</programme>
-	<programme channel="澳视卫星" start="20260615234000 +0800" stop="20260616000000 +0800">
+	<programme channel="澳视卫星" start="20260615234000 +0800" stop="20260615235900 +0800">
 		<title lang="zh">趋记茶餐厅</title>
-	</programme>
-	<channel id="广州竞赛">
-		<display-name lang="zh">广州竞赛</display-name>
-	</channel>
-	<programme channel="广州竞赛" start="20260615091500 +0800" stop="20260615094500 +0800">
-		<title lang="zh">平安跑世界</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615094500 +0800" stop="20260615101500 +0800">
-		<title lang="zh">缤纷生活街专题</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615101500 +0800" stop="20260615111500 +0800">
-		<title lang="zh">体育赛事</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615111500 +0800" stop="20260615114500 +0800">
-		<title lang="zh">世界体育</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615114500 +0800" stop="20260615120000 +0800">
-		<title lang="zh">竞赛快讯</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615120000 +0800" stop="20260615130000 +0800">
-		<title lang="zh">体育赛事</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615130000 +0800" stop="20260615131500 +0800">
-		<title lang="zh">竞赛快讯</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615131500 +0800" stop="20260615140000 +0800">
-		<title lang="zh">体育赛事</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615140000 +0800" stop="20260615141500 +0800">
-		<title lang="zh">竞赛快讯</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615141500 +0800" stop="20260615144500 +0800">
-		<title lang="zh">缤纷生活街专题</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615144500 +0800" stop="20260615151500 +0800">
-		<title lang="zh">平安跑世界</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615151500 +0800" stop="20260615170000 +0800">
-		<title lang="zh">体育赛事</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615170000 +0800" stop="20260615173000 +0800">
-		<title lang="zh">缤纷生活街专题</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615173000 +0800" stop="20260615183000 +0800">
-		<title lang="zh">体育赛事</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615183000 +0800" stop="20260615190000 +0800">
-		<title lang="zh">今日睇弹</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615190000 +0800" stop="20260615193000 +0800">
-		<title lang="zh">体坛点击</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615193000 +0800" stop="20260615203000 +0800">
-		<title lang="zh">德甲精华</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615203000 +0800" stop="20260615220000 +0800">
-		<title lang="zh">体育赛事</title>
-	</programme>
-	<programme channel="广州竞赛" start="20260615220000 +0800" stop="20260616000000 +0800">
-		<title lang="zh">体育赛事</title>
-	</programme>
-	<channel id="汕头综合">
-		<display-name lang="zh">汕头综合</display-name>
-	</channel>
-	<programme channel="汕头综合" start="20260615001000 +0800" stop="20260615014500 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615014500 +0800" stop="20260615070200 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615070200 +0800" stop="20260615075200 +0800">
-		<title lang="zh">重播昨天今日视线</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615075200 +0800" stop="20260615081500 +0800">
-		<title lang="zh">重播双响炮</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615081500 +0800" stop="20260615083300 +0800">
-		<title lang="zh">重播昨天汕头新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615083300 +0800" stop="20260615095800 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615095800 +0800" stop="20260615120000 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615120000 +0800" stop="20260615132000 +0800">
-		<title lang="zh">重播昨天汕头新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615132000 +0800" stop="20260615134500 +0800">
-		<title lang="zh">双响炮</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615134500 +0800" stop="20260615142500 +0800">
-		<title lang="zh">厝边头尾</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615142500 +0800" stop="20260615190000 +0800">
-		<title lang="zh">潮剧</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615190000 +0800" stop="20260615193300 +0800">
-		<title lang="zh">转播中央电视台新闻联播</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615193300 +0800" stop="20260615200300 +0800">
-		<title lang="zh">汕头新闻(普语)</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615200300 +0800" stop="20260615220000 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615220000 +0800" stop="20260615230000 +0800">
-		<title lang="zh">今日视线(重播)</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615230000 +0800" stop="20260615232000 +0800">
-		<title lang="zh">双响炮</title>
-	</programme>
-	<programme channel="汕头综合" start="20260615232000 +0800" stop="20260616000000 +0800">
-		<title lang="zh">潮汕新闻联播</title>
 	</programme>
 	<channel id="TVBS">
 		<display-name lang="zh">TVBS</display-name>
