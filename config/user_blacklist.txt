@@ -1,0 +1,33 @@
+# 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
+# This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+/audio/
+bxtv.3a.ink
+https://iptv.catvod.com
+http://45.192.97.170:8880
+http://61.178.227.57:9901
+http://dbiptv.sn.chinamobile.com
+http://ottrrs.hl.chinamobile.com
+http://rrs01.hw.gmcc.net:8088
+http://z.b.bkpcp.top
+https://stream1.freetv.fun
+https://zby.130519.xyz
+https://live.chinacert.cftest5.cn
+http://hlszymgsplive.miguvideo.com:8080
+http://sagrad.org:8181
+http://204.12.221.218:8181
+http://mgsp-hs2.live.miguvideo.com:8088
+http://mgsp-ws2.live.miguvideo.com:8088
+https://php.jdshipin.com
+https://epg.pw
+https://t.freetv.fun
+http://cdn3.163189.xyz
+https://event.pull.hebtv.com
+http://www.liuliuball.cn
+https://www.freetv.top
+https://smart.pendy.dpdns.org
+http://huixingy.top
+http://222.169.85.8:9901
+http://goo.bkpcp.top
+http://www.1328099.xyz:9688
+http://jiange.dns.navy
+http://www.3344.uk:8888
