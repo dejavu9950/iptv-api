@@ -52,7 +52,7 @@ CETV早教,CETV早期教育,早期教育
 CGTN英语,CGTN英语新闻
 CGTN俄语,CGTN俄罗斯语
 
-广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
+广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清,广东珠江4K,广东珠江4k
 广东体育,广东体育高清,广东体育HD
 广东新闻,广东新闻高清,广东新闻HD
 广东民生,广东民生高清,广东民生HD
@@ -64,9 +64,10 @@ Astro IQIYI,ASTRO IQIYI,astro IQIYI,AstroIQIYI,ASTROIQIYI,astroIQIYI,ASTRO爱奇
 Astro AOD,ASTRO AOD,astro AOD,AstroAOD,ASTROAOD,astroAOD
 Astro AEC,ASTRO AEC,astro AEC,AstroAEC,ASTROAEC,astroAEC
 Astro 欢喜台,Astro 歡喜台,astro 欢喜台,astro 歡喜台,Astro欢喜台,Astro歡喜台,astro欢喜台,astro歡喜台
-TVB PLUS,TVB Plus,TVBPLUS,TVBPlus
-TVBS NEWS,TVBS News,TVBSNEWS,TVBSNews,TVBS新闻,TVBS新聞,,TVBS 新闻,TVBS 新聞,無線新聞台,无线新闻台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台
+TVB PLUS,TVB Plus,TVBPLUS,TVBPlus,TVBP,TVB+
+TVBS NEWS,TVBS News,TVBSNEWS,TVBSNews,TVBS新闻,TVBS新聞,TVBS 新闻,TVBS 新聞
 TVB1,TVB 1,翡翠一台(TVB1),翡翠第一台
+無線新聞台,无线新闻台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台
 
 龙华电影,龍華電影,LTV龙华电影,LTV龍華電影
 龙华戏剧,龍華戲劇,LTV龙华电影,LTV龍華電影
@@ -209,4 +210,4 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 云南卫视,云南卫视HD,云南卫视高清
 
 汕头综合,汕头综合高清,汕头综合HD
-汕头生活,汕头生活高清,汕头生活HD,汕头经济,汕头经济高清,汕头经济HD
+汕头生活,汕头生活高清,汕头生活HD,汕头经济,汕头经济高清,汕头经济HD,汕头经济生活,经济生活
