@@ -297,6 +297,7 @@ CCTV-8,http://173.208.212.130:8181/1080p/cctv8.m3u8
 CCTV-8,http://61.178.227.57:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://111.61.208.131:9019/hls/8/index.m3u8
 CCTV-8,http://222.223.41.27:8888/hls/8/index.m3u8
+CCTV-8,http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV8
 CCTV-8,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_cctv08dsj
 CCTV-8,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv09jl
 CCTV-8,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv08dsj
