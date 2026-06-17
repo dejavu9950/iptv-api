@@ -27,7 +27,7 @@ https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webvie
 https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt
 https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
 http://taoiptv.com/lives/44023.txt?token=e436e546682bffd5
-http://taoiptv.com/lives/44025.txt?token=e436e546682bffd5
+# http://taoiptv.com/lives/44025.txt?token=e436e546682bffd5
 https://d.kstore.dev/download/11344/yunduan.txt
 
 [WHITELIST]
